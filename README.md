@@ -17,4 +17,5 @@ can see weather of all over the world.
 # To open
 Clone the program to your local machine.
 
-
+# To run
+https://codepen.io/Saurabh-the-encoder/pen/BaejvgW
